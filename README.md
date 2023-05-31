@@ -44,7 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://tanvir.digital/"><img alt="Website" src="http://www.w3.org/2000/svg"></a>
-<a href="https://www.linkedin.com/in/tanvirkhondakar/"><img alt="LinkedIn" src="http://www.w3.org/2000/svg"</a>
+<a href="https://tanvir.digital/"><img alt="Website" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png"></a>
+<a href="https://www.linkedin.com/in/tanvirkhondakar/"><img alt="LinkedIn" src="https://image.pngaaa.com/708/1947708-middle.png"</a>
 </p>
 
