@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Tanvir.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -7,8 +5,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Recent graduate of the Full-Stack Software Development Bootcamp at the University of Minnesota.
 - 💼 &nbsp; Currently looking for a role where I can make an impact.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Python and Artificial Intelligence.
+- ✍️ &nbsp; Designing and creating websites as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -46,7 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://tanvir.digital/"><img alt="Website" src=""></a>
-<a href="https://www.linkedin.com/in/tanvirkhondakar/"><img alt="LinkedIn" src=""</a>
+<a href="https://tanvir.digital/"><img alt="Website" src="http://www.w3.org/2000/svg"></a>
+<a href="https://www.linkedin.com/in/tanvirkhondakar/"><img alt="LinkedIn" src="http://www.w3.org/2000/svg"</a>
 </p>
 
